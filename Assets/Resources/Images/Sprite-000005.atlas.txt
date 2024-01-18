@@ -1,0 +1,118 @@
+
+Sprite-000005.png
+size: 536,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+calf-back
+  rotate: false
+  xy: 410, 94
+  size: 60, 60
+  orig: 62, 62
+  offset: 1, 1
+  index: -1
+calf-front
+  rotate: false
+  xy: 472, 94
+  size: 60, 60
+  orig: 62, 62
+  offset: 1, 1
+  index: -1
+chest
+  rotate: false
+  xy: 184, 54
+  size: 90, 100
+  orig: 92, 102
+  offset: 1, 1
+  index: -1
+elbow-back
+  rotate: false
+  xy: 452, 10
+  size: 40, 40
+  orig: 42, 42
+  offset: 1, 1
+  index: -1
+elbow-front
+  rotate: false
+  xy: 452, 10
+  size: 40, 40
+  orig: 42, 42
+  offset: 1, 1
+  index: -1
+patch
+  rotate: false
+  xy: 452, 10
+  size: 40, 40
+  orig: 42, 42
+  offset: 1, 1
+  index: -1
+forearm-back
+  rotate: true
+  xy: 452, 52
+  size: 40, 50
+  orig: 42, 52
+  offset: 1, 1
+  index: -1
+forearm-front
+  rotate: true
+  xy: 184, 2
+  size: 50, 60
+  orig: 52, 62
+  offset: 1, 1
+  index: -1
+hand-back
+  rotate: true
+  xy: 308, 2
+  size: 60, 80
+  orig: 62, 82
+  offset: 1, 1
+  index: -1
+hand-front
+  rotate: false
+  xy: 276, 64
+  size: 70, 90
+  orig: 72, 92
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 2, 14
+  size: 180, 140
+  orig: 182, 142
+  offset: 1, 1
+  index: -1
+neek-back
+  rotate: false
+  xy: 494, 10
+  size: 40, 40
+  orig: 42, 42
+  offset: 1, 1
+  index: -1
+neek-front
+  rotate: false
+  xy: 494, 10
+  size: 40, 40
+  orig: 42, 42
+  offset: 1, 1
+  index: -1
+thigh-back
+  rotate: true
+  xy: 246, 2
+  size: 50, 60
+  orig: 52, 62
+  offset: 1, 1
+  index: -1
+thigh-front
+  rotate: false
+  xy: 390, 2
+  size: 60, 70
+  orig: 62, 72
+  offset: 1, 1
+  index: -1
+waist
+  rotate: true
+  xy: 348, 74
+  size: 80, 60
+  orig: 82, 62
+  offset: 1, 1
+  index: -1

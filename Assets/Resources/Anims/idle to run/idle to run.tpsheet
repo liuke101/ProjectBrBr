@@ -1,0 +1,26 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:d01c18b80e7df5f173be061780c7b521:7689c2a2800cf3c7c42b23c3bd21c40b:128b1335cda93f7befdf06c089f79953$
+#
+:format=40300
+:texture=idle to run.png
+:size=5420x3020
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+idle to run_00;0;1510;903;1510; 0.5;0.5; 0;0;0;0
+idle to run_01;903;1510;903;1510; 0.5;0.5; 0;0;0;0
+idle to run_02;1806;1510;903;1510; 0.5;0.5; 0;0;0;0
+idle to run_03;2709;1510;903;1510; 0.5;0.5; 0;0;0;0
+idle to run_04;3612;1510;903;1510; 0.5;0.5; 0;0;0;0
+idle to run_05;4515;1510;903;1510; 0.5;0.5; 0;0;0;0
+idle to run_06;0;0;903;1510; 0.5;0.5; 0;0;0;0
+idle to run_07;903;0;903;1510; 0.5;0.5; 0;0;0;0
+idle to run_08;1806;0;903;1510; 0.5;0.5; 0;0;0;0
+idle to run_09;2709;0;903;1510; 0.5;0.5; 0;0;0;0
+idle to run_10;3612;0;903;1510; 0.5;0.5; 0;0;0;0

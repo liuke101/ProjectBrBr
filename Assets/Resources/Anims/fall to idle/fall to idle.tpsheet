@@ -1,0 +1,36 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:e24f8df03d958262e200cdc612c7cd3d:d1c50f0553cf7d238ede080661a58c84:35f2f6b996e0060edc9bcc2b9d91ce07$
+#
+:format=40300
+:texture=fall to idle.png
+:size=4096x8192
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+jump to idle_00;0;6671;708;1521; 0.5;0.5; 0;0;0;0
+jump to idle_01;708;6671;708;1521; 0.5;0.5; 0;0;0;0
+jump to idle_02;1416;6671;708;1521; 0.5;0.5; 0;0;0;0
+jump to idle_03;2124;6671;708;1521; 0.5;0.5; 0;0;0;0
+jump to idle_04;2832;6671;708;1521; 0.5;0.5; 0;0;0;0
+jump to idle_05;0;5150;708;1521; 0.5;0.5; 0;0;0;0
+jump to idle_06;708;5150;708;1521; 0.5;0.5; 0;0;0;0
+jump to idle_07;1416;5150;708;1521; 0.5;0.5; 0;0;0;0
+jump to idle_08;2124;5150;708;1521; 0.5;0.5; 0;0;0;0
+jump to idle_09;2832;5150;708;1521; 0.5;0.5; 0;0;0;0
+jump to idle_10;0;3629;708;1521; 0.5;0.5; 0;0;0;0
+jump to idle_11;708;3629;708;1521; 0.5;0.5; 0;0;0;0
+jump to idle_12;1416;3629;708;1521; 0.5;0.5; 0;0;0;0
+jump to idle_13;2124;3629;708;1521; 0.5;0.5; 0;0;0;0
+jump to idle_14;2832;3629;708;1521; 0.5;0.5; 0;0;0;0
+jump to idle_15;0;2108;708;1521; 0.5;0.5; 0;0;0;0
+jump to idle_16;708;2108;708;1521; 0.5;0.5; 0;0;0;0
+jump to idle_17;1416;2108;708;1521; 0.5;0.5; 0;0;0;0
+jump to idle_18;2124;2108;708;1521; 0.5;0.5; 0;0;0;0
+jump to idle_19;2832;2108;708;1521; 0.5;0.5; 0;0;0;0
+jump to idle_20;0;587;708;1521; 0.5;0.5; 0;0;0;0

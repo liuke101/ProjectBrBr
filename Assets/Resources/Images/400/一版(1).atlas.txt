@@ -1,0 +1,76 @@
+
+一版(1).png
+size: 1922,1247
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: true
+  xy: 960, 730
+  size: 515, 713
+  orig: 515, 713
+  offset: 0, 0
+  index: -1
+I
+  rotate: true
+  xy: 1208, 69
+  size: 148, 317
+  orig: 150, 319
+  offset: 1, 1
+  index: -1
+L
+  rotate: true
+  xy: 2, 43
+  size: 512, 741
+  orig: 512, 742
+  offset: 0, 1
+  index: -1
+M
+  rotate: false
+  xy: 745, 2
+  size: 461, 553
+  orig: 461, 553
+  offset: 0, 0
+  index: -1
+M rabbit
+  rotate: true
+  xy: 1675, 773
+  size: 472, 161
+  orig: 472, 161
+  offset: 0, 0
+  index: -1
+N
+  rotate: false
+  xy: 1208, 219
+  size: 365, 509
+  orig: 365, 509
+  offset: 0, 0
+  index: -1
+booom
+  rotate: false
+  xy: 2, 557
+  size: 956, 688
+  orig: 956, 688
+  offset: 0, 0
+  index: -1
+eye bi
+  rotate: false
+  xy: 960, 609
+  size: 146, 119
+  orig: 148, 121
+  offset: 1, 1
+  index: -1
+eye big
+  rotate: true
+  xy: 1527, 12
+  size: 189, 198
+  orig: 189, 198
+  offset: 0, 0
+  index: -1
+radish
+  rotate: false
+  xy: 1575, 203
+  size: 345, 525
+  orig: 347, 527
+  offset: 1, 1
+  index: -1

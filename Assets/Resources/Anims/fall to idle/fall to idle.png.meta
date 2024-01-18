@@ -1,0 +1,613 @@
+fileFormatVersion: 2
+guid: efd88f2ff5ebe2c4e8fde372bc6141ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8387654458353266154
+    second: fall to idle_0
+  - first:
+      213: 6762247634564106676
+    second: fall to idle_1
+  - first:
+      213: 7754673071757324998
+    second: fall to idle_2
+  - first:
+      213: -5917193851619825563
+    second: fall to idle_3
+  - first:
+      213: -5197322665193019596
+    second: fall to idle_4
+  - first:
+      213: 7462305028232782503
+    second: fall to idle_5
+  - first:
+      213: -5361973118508832185
+    second: fall to idle_6
+  - first:
+      213: -2978581474299208091
+    second: fall to idle_7
+  - first:
+      213: 3712204806782884319
+    second: fall to idle_8
+  - first:
+      213: 8049882813781741868
+    second: fall to idle_9
+  - first:
+      213: -5221441376639080828
+    second: fall to idle_10
+  - first:
+      213: 487639856516233326
+    second: fall to idle_11
+  - first:
+      213: 4693133380390292134
+    second: fall to idle_12
+  - first:
+      213: 2016382898967606097
+    second: fall to idle_13
+  - first:
+      213: 1313652594908017107
+    second: fall to idle_14
+  - first:
+      213: -8706140166616602675
+    second: fall to idle_15
+  - first:
+      213: -1210562998669229924
+    second: fall to idle_16
+  - first:
+      213: 2968152785746990874
+    second: fall to idle_17
+  - first:
+      213: -7387373849964090814
+    second: fall to idle_18
+  - first:
+      213: 8015865254946359786
+    second: fall to idle_19
+  - first:
+      213: 2759196748304647365
+    second: fall to idle_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fall to idle_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 6698
+        width: 672
+        height: 1488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed2ed84a4fe66470800000000000000
+      internalID: 8387654458353266154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to idle_1
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 6698
+        width: 664
+        height: 1488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b94b6d456458dd50800000000000000
+      internalID: 6762247634564106676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to idle_2
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 6694
+        width: 644
+        height: 1492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2f16f92122e9b60800000000000000
+      internalID: 7754673071757324998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to idle_3
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 6694
+        width: 620
+        height: 1492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5682317ea87e1eda0800000000000000
+      internalID: -5917193851619825563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to idle_4
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 6698
+        width: 588
+        height: 1488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437651692966fd7b0800000000000000
+      internalID: -5197322665193019596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to idle_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 5182
+        width: 588
+        height: 1484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a22d6dd2ee6f8760800000000000000
+      internalID: 7462305028232782503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to idle_6
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 5190
+        width: 588
+        height: 1480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a66109bd17695b0800000000000000
+      internalID: -5361973118508832185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to idle_7
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 5183
+        width: 590
+        height: 1487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e16d92ee3f9a6d0800000000000000
+      internalID: -2978581474299208091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to idle_8
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 5178
+        width: 588
+        height: 1492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd99ac98a96648330800000000000000
+      internalID: 3712204806782884319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to idle_9
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 5178
+        width: 588
+        height: 1496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c219bfed4cde6bf60800000000000000
+      internalID: 8049882813781741868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to idle_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3654
+        width: 584
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486a6e97bb6b987b0800000000000000
+      internalID: -5221441376639080828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to idle_11
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 3642
+        width: 568
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68f8f9add174c600800000000000000
+      internalID: 487639856516233326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to idle_12
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 3626
+        width: 532
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa01b5b1fb512140800000000000000
+      internalID: 4693133380390292134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to idle_13
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 3630
+        width: 492
+        height: 1472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153f2283091abfb10800000000000000
+      internalID: 2016382898967606097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to idle_14
+      rect:
+        serializedVersion: 2
+        x: 2926
+        y: 3638
+        width: 496
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d133c533180b3210800000000000000
+      internalID: 1313652594908017107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to idle_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2122
+        width: 492
+        height: 1420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7ae0445a39d2780800000000000000
+      internalID: -8706140166616602675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to idle_16
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2122
+        width: 488
+        height: 1428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90c616dd57333fe0800000000000000
+      internalID: -1210562998669229924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to idle_17
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 2126
+        width: 480
+        height: 1444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1719819b3ff03920800000000000000
+      internalID: 2968152785746990874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to idle_18
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 2130
+        width: 528
+        height: 1460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a61e99f96ca7990800000000000000
+      internalID: -7387373849964090814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to idle_19
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 2130
+        width: 572
+        height: 1480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae94970caf21e3f60800000000000000
+      internalID: 8015865254946359786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to idle_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 618
+        width: 584
+        height: 1484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c48c10e2d2aa4620800000000000000
+      internalID: 2759196748304647365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

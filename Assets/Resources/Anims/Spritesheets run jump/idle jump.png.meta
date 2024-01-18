@@ -1,0 +1,853 @@
+fileFormatVersion: 2
+guid: 9a19bcb1f19eb4d40b309cd3b3e9402b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 796016455995028603
+    second: idle jump_0
+  - first:
+      213: -2276434462272778497
+    second: idle jump_1
+  - first:
+      213: 4720317018579060243
+    second: idle jump_2
+  - first:
+      213: -126301375855940471
+    second: idle jump_3
+  - first:
+      213: -5164081297753875836
+    second: idle jump_4
+  - first:
+      213: 8553140758921746987
+    second: idle jump_5
+  - first:
+      213: 5404310760458760068
+    second: idle jump_6
+  - first:
+      213: -6753950234167544666
+    second: idle jump_7
+  - first:
+      213: -2572580060543087099
+    second: idle jump_8
+  - first:
+      213: -7487839538455377135
+    second: idle jump_9
+  - first:
+      213: 879810224084123927
+    second: idle jump_10
+  - first:
+      213: -5303494094435370693
+    second: idle jump_11
+  - first:
+      213: -9144139531518327786
+    second: idle jump_12
+  - first:
+      213: 8759028714586858100
+    second: idle jump_13
+  - first:
+      213: 3785576736635864388
+    second: idle jump_14
+  - first:
+      213: -6187582178011029912
+    second: idle jump_15
+  - first:
+      213: 5938226574035615972
+    second: idle jump_16
+  - first:
+      213: -6641151953763920942
+    second: idle jump_17
+  - first:
+      213: -2066312493787074887
+    second: idle jump_18
+  - first:
+      213: -9153071796651216657
+    second: idle jump_19
+  - first:
+      213: -4313766677910327270
+    second: idle jump_20
+  - first:
+      213: -5488747665069914191
+    second: idle jump_21
+  - first:
+      213: 3378320553014221459
+    second: idle jump_22
+  - first:
+      213: 1757279812844995829
+    second: idle jump_23
+  - first:
+      213: -4665670957126161594
+    second: idle jump_24
+  - first:
+      213: 2803815171825998826
+    second: idle jump_25
+  - first:
+      213: 403862942792571003
+    second: idle jump_26
+  - first:
+      213: -1555411734001919912
+    second: idle jump_27
+  - first:
+      213: 1863008728473611081
+    second: idle jump_28
+  - first:
+      213: -3038102419709636004
+    second: idle jump_29
+  - first:
+      213: -5491574364381046017
+    second: idle jump_30
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle jump_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6710
+        width: 584
+        height: 1482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74f2fecfb40c0b00800000000000000
+      internalID: 796016455995028603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 6710
+        width: 578
+        height: 1480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe06c9eaea7860e0800000000000000
+      internalID: -2276434462272778497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_2
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 6702
+        width: 564
+        height: 1480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316c2afa15fe18140800000000000000
+      internalID: 4720317018579060243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_3
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 6702
+        width: 548
+        height: 1472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ca67d51994f3ef0800000000000000
+      internalID: -126301375855940471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_4
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 6699
+        width: 532
+        height: 1467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a54209b6f7558b0800000000000000
+      internalID: -5164081297753875836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_5
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 6698
+        width: 524
+        height: 1456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a1279243cd2b670800000000000000
+      internalID: 8553140758921746987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_6
+      rect:
+        serializedVersion: 2
+        x: 4198
+        y: 6698
+        width: 504
+        height: 1448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f27fcd008fffa40800000000000000
+      internalID: 5404310760458760068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_7
+      rect:
+        serializedVersion: 2
+        x: 4894
+        y: 6694
+        width: 512
+        height: 1444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4f6c5cb062542a0800000000000000
+      internalID: -6753950234167544666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_8
+      rect:
+        serializedVersion: 2
+        x: 5590
+        y: 6690
+        width: 528
+        height: 1444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e8317a01c5c4cd0800000000000000
+      internalID: -2572580060543087099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_9
+      rect:
+        serializedVersion: 2
+        x: 6290
+        y: 6687
+        width: 536
+        height: 1439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b0e3fac99d51890800000000000000
+      internalID: -7487839538455377135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_10
+      rect:
+        serializedVersion: 2
+        x: 6986
+        y: 6686
+        width: 540
+        height: 1436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7118a44ccb6b53c00800000000000000
+      internalID: 879810224084123927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_11
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 5154
+        width: 532
+        height: 1444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b393cc068343666b0800000000000000
+      internalID: -5303494094435370693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_12
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 5134
+        width: 512
+        height: 1476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6144e373b8d791180800000000000000
+      internalID: -9144139531518327786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_13
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 5130
+        width: 524
+        height: 1496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472656665325e8970800000000000000
+      internalID: 8759028714586858100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_14
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 5147
+        width: 528
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445c9213cf1198430800000000000000
+      internalID: 3785576736635864388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_15
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 5158
+        width: 540
+        height: 1492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e5d15daca412aa0800000000000000
+      internalID: -6187582178011029912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_16
+      rect:
+        serializedVersion: 2
+        x: 3551
+        y: 5162
+        width: 535
+        height: 1492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e08d256b91d86250800000000000000
+      internalID: 5938226574035615972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_17
+      rect:
+        serializedVersion: 2
+        x: 4242
+        y: 5170
+        width: 528
+        height: 1492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d392800c73e5d3a0800000000000000
+      internalID: -6641151953763920942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_18
+      rect:
+        serializedVersion: 2
+        x: 4934
+        y: 5182
+        width: 520
+        height: 1480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9beaed41cbbf253e0800000000000000
+      internalID: -2066312493787074887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_19
+      rect:
+        serializedVersion: 2
+        x: 5626
+        y: 5194
+        width: 512
+        height: 1472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe035fc22b1c9f080800000000000000
+      internalID: -9153071796651216657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_20
+      rect:
+        serializedVersion: 2
+        x: 6314
+        y: 5198
+        width: 512
+        height: 1468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10fc3fcf0c6224c0800000000000000
+      internalID: -4313766677910327270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_21
+      rect:
+        serializedVersion: 2
+        x: 6994
+        y: 5202
+        width: 520
+        height: 1460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7c0c9441d04d3b0800000000000000
+      internalID: -5488747665069914191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 3671
+        width: 522
+        height: 1459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a50d3d4a432ee20800000000000000
+      internalID: 3378320553014221459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_23
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 3670
+        width: 520
+        height: 1456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f44797edac136810800000000000000
+      internalID: 1757279812844995829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_24
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 3662
+        width: 528
+        height: 1464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b63a9fbf4304fb0800000000000000
+      internalID: -4665670957126161594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_25
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 3654
+        width: 543
+        height: 1472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb1a842b0729e620800000000000000
+      internalID: 2803815171825998826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_26
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 3646
+        width: 560
+        height: 1480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78581be43fca9500800000000000000
+      internalID: 403862942792571003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_27
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 3642
+        width: 596
+        height: 1484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8585753d4411a6ae0800000000000000
+      internalID: -1555411734001919912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_28
+      rect:
+        serializedVersion: 2
+        x: 4166
+        y: 3638
+        width: 632
+        height: 1488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b2f12619cbad910800000000000000
+      internalID: 1863008728473611081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_29
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 3642
+        width: 660
+        height: 1488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52d3f122fd76d5d0800000000000000
+      internalID: -3038102419709636004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle jump_30
+      rect:
+        serializedVersion: 2
+        x: 5548
+        y: 3646
+        width: 674
+        height: 1484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa1d6116320ac3b0800000000000000
+      internalID: -5491574364381046017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

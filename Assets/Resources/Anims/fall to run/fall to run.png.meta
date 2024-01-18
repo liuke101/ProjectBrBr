@@ -1,0 +1,613 @@
+fileFormatVersion: 2
+guid: ea9d4c66a23e0b940b6b977b1ebca97a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 587413631011384447
+    second: fall to run_0
+  - first:
+      213: 5282435484654499990
+    second: fall to run_1
+  - first:
+      213: 6553040268063601936
+    second: fall to run_2
+  - first:
+      213: 8310571616606474636
+    second: fall to run_3
+  - first:
+      213: 8679422084185552434
+    second: fall to run_4
+  - first:
+      213: 2199489941885953430
+    second: fall to run_5
+  - first:
+      213: -4929280952189259274
+    second: fall to run_6
+  - first:
+      213: -7144474267615932777
+    second: fall to run_7
+  - first:
+      213: -4341973403038358217
+    second: fall to run_8
+  - first:
+      213: -4511372526181743613
+    second: fall to run_9
+  - first:
+      213: -2022575001880881907
+    second: fall to run_10
+  - first:
+      213: -7851270885309938020
+    second: fall to run_11
+  - first:
+      213: 7524336546843694381
+    second: fall to run_12
+  - first:
+      213: -8609757227172774368
+    second: fall to run_13
+  - first:
+      213: -4374100399987110985
+    second: fall to run_14
+  - first:
+      213: -7653286569266145911
+    second: fall to run_15
+  - first:
+      213: 246260503181041956
+    second: fall to run_16
+  - first:
+      213: 4094281144942787625
+    second: fall to run_17
+  - first:
+      213: 1865959722518922997
+    second: fall to run_18
+  - first:
+      213: -8861319883232575745
+    second: fall to run_19
+  - first:
+      213: 3057694534446323517
+    second: fall to run_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fall to run_0
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2875
+        width: 679
+        height: 1425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ce7acc599e62800800000000000000
+      internalID: 587413631011384447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to run_1
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 2881
+        width: 642
+        height: 1419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698ffb3f51bfe4940800000000000000
+      internalID: 5282435484654499990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to run_2
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 2887
+        width: 605
+        height: 1413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015f2c0876311fa50800000000000000
+      internalID: 6553040268063601936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to run_3
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 2893
+        width: 565
+        height: 1407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81d540aad4155370800000000000000
+      internalID: 8310571616606474636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to run_4
+      rect:
+        serializedVersion: 2
+        x: 3878
+        y: 2899
+        width: 533
+        height: 1401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2367f876660837870800000000000000
+      internalID: 8679422084185552434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to run_5
+      rect:
+        serializedVersion: 2
+        x: 4658
+        y: 2905
+        width: 637
+        height: 1395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6952821e278268e10800000000000000
+      internalID: 2199489941885953430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to run_6
+      rect:
+        serializedVersion: 2
+        x: 5703
+        y: 2906
+        width: 509
+        height: 1392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1f8a6271da79bb0800000000000000
+      internalID: -4929280952189259274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to run_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1463
+        width: 514
+        height: 1399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e45d3b18ab9dc90800000000000000
+      internalID: -7144474267615932777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to run_8
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1454
+        width: 512
+        height: 1405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73564b7d1363eb3c0800000000000000
+      internalID: -4341973403038358217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to run_9
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 1447
+        width: 511
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3040b77f6926461c0800000000000000
+      internalID: -4511372526181743613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to run_10
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 1441
+        width: 518
+        height: 1409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d051e4970ce5ee3e0800000000000000
+      internalID: -2022575001880881907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to run_11
+      rect:
+        serializedVersion: 2
+        x: 3915
+        y: 1444
+        width: 525
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c960cb54abeaa0390800000000000000
+      internalID: -7851270885309938020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to run_12
+      rect:
+        serializedVersion: 2
+        x: 4793
+        y: 1444
+        width: 564
+        height: 1374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d259b154930db6860800000000000000
+      internalID: 7524336546843694381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to run_13
+      rect:
+        serializedVersion: 2
+        x: 5625
+        y: 1444
+        width: 649
+        height: 1356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02eb3081b6ff38880800000000000000
+      internalID: -8609757227172774368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to run_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 838
+        height: 1351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbcfd67cd21c43c0800000000000000
+      internalID: -4374100399987110985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to run_15
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 847
+        height: 1336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9859f920a601ac590800000000000000
+      internalID: -7653286569266145911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to run_16
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 0
+        width: 861
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421a0567f94ea6300800000000000000
+      internalID: 246260503181041956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to run_17
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 0
+        width: 875
+        height: 1363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cf4e6420fc1d830800000000000000
+      internalID: 4094281144942787625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to run_18
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 0
+        width: 887
+        height: 1373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f64de93b7835e910800000000000000
+      internalID: 1865959722518922997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to run_19
+      rect:
+        serializedVersion: 2
+        x: 4539
+        y: 0
+        width: 906
+        height: 1382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffef0d6f384460580800000000000000
+      internalID: -8861319883232575745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall to run_20
+      rect:
+        serializedVersion: 2
+        x: 5451
+        y: 11
+        width: 905
+        height: 1377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37935d8afc1f6a20800000000000000
+      internalID: 3057694534446323517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
