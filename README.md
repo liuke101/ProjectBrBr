@@ -4,10 +4,13 @@
 
 # 一、项目概述
 本游戏是一款动作冒险类游戏，主角小汐要通过路上重重的机关，战胜变异的黑暗怪物，帮助人类拓展生存空间，揭开前文明纪元的失落历史。
-![image](https://github.com/user-attachments/assets/c655d89a-8446-465e-b0b7-29fc721170fc)![image](https://github.com/user-attachments/assets/d8b1baeb-8ee2-44d3-b4ff-6a6a3207b56c)
+
+![image](https://github.com/user-attachments/assets/c655d89a-8446-465e-b0b7-29fc721170fc)
+![image](https://github.com/user-attachments/assets/d8b1baeb-8ee2-44d3-b4ff-6a6a3207b56c)
 
 ## 1.1 游戏核心玩法
 游戏的核心玩法在于一个关卡探索——奖励收集——解谜战斗的循环，通过对关卡的探索收集信念回响，解锁信息，进一步帮助关卡内的解谜战斗， 如下图。
+
 ![image](https://github.com/user-attachments/assets/87d62fb7-578e-48f7-b93d-d3f48b146219)
 
 关卡的引导分为两个方面，一是通过关卡内的“信念残痕”的收集，获取一定的文本提示；另一个则是通过相似的物品，通过场景中摆放的位置进行引导，隐性的去帮助玩家回忆之前一开始教程中展示的简单解谜元素。
@@ -33,7 +36,6 @@
 
 在设计过程中，推翻了之前的带兜帽的形象，形象上总体和后启示录的世界观风格不符，同时设定的代表信念能力的物品显得不容易被发现，所以换成了后来的形象，并通过颜色的鲜明变化来凸显出主角两个形态能力的转变。
 
-
 设计草稿	 
 ![image](https://github.com/user-attachments/assets/1da473c1-7966-477e-abbd-9b5080e5bb90)
 
@@ -45,11 +47,12 @@
 
 ### 1.3.2  场景概念设计
 设计中，场景包括两个部分的概念，一个是黑暗中的森林，气氛较为压抑，表现出被黑暗侵蚀的一种氛围。另一个则是前文明遗迹的概念，遗迹的设定参考了一些有关符文科技的内容，古朴的材质+科技感的纹路表现出前文明黑科技的感觉。
+
 黑暗森林
 ![image](https://github.com/user-attachments/assets/6631da52-0213-4054-b90b-c0b279066631)
 
 前文明遗迹
- 	 ![image](https://github.com/user-attachments/assets/8d946f38-7431-4360-adeb-89fb1e645dfe)
+![image](https://github.com/user-attachments/assets/8d946f38-7431-4360-adeb-89fb1e645dfe)
 
  	 
 
